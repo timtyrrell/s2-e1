@@ -1,0 +1,13 @@
+- load all users w/ first_name and last_name into an array
+- randomly grab set number of people OR all
+- email back to the original sender?
+- remove to_i
+
+- How do we know which event to perform this on?
+
+- parse plain text email
+- get password & gowalla key & event id from a config file (and put on .gitignore list)
+- extract into classes/modules
+- tests - make swappable
+- parse rich text email
+

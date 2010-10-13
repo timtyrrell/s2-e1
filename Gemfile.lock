@@ -2,6 +2,7 @@ GEM
   remote: http://rubygems.org/
   specs:
     activesupport (3.0.0)
+    json_pure (1.4.6)
     mail (2.2.5)
       activesupport (>= 2.3.6)
       mime-types
@@ -16,5 +17,6 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  json_pure
   mail
   patron
